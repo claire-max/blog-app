@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+:root{
+    --primary-color:blue;
+    --secondary-color:green;
+    --body-text-color: pink;
+    --navbar-footer-color:white;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-size:12px;
+    color: var(--body-text-color);
+}
+
+
