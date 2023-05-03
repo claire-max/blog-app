@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 30px 0;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    line-height: 40px;
+    color: #333;
+    transition: background-color 0.3s ease;
+}
+
+.social-links a:hover {
+    background-color: #333;
+    color: white;
+}

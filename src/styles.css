@@ -6,8 +6,8 @@
 :root{
     --primary-color:white;
     --secondary-color:#e9ff4f;
-    --body-text-color: black;
-    --navbar-footer-color:white;
+    --body-text-color: white;
+    --navbar-footer-color:#51604d;
 }
 
 body {

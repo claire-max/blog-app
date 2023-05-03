@@ -15,6 +15,7 @@ const routes: Routes = [
   {path: 'term-conditions', component: TermsConditionComponent},
   {path: 'contact', component: ContactUsComponent},
 
+
 ];
 
 @NgModule({

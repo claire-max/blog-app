@@ -1,3 +1,38 @@
 nav {
-    margin-top: 100px;
+    /* margin-top: 500px;
+    height:50px; */
+    background-color: var(--navbar-footer-color);
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+
+}
+
+/* .nav-item {
+    align-items: center;
+    justify-content: center;
+
+} */
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: var(--navbar-footer-color);
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.navlink {
+    text-transform: uppercase;
+
 }
