@@ -1,0 +1,21 @@
+header {
+    height:100px;
+}
+
+.site-logo {
+    padding: 5px 20px;
+    border-radius: 20px;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    font-size:1.5rem;
+}
+
+/* .carousel-item {
+    position: absolute;
+  bottom: 10%;
+  left: 5%;
+  z-index: 20;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+
+} */

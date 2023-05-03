@@ -4,9 +4,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 :root{
-    --primary-color:blue;
-    --secondary-color:green;
-    --body-text-color: pink;
+    --primary-color:white;
+    --secondary-color:#e9ff4f;
+    --body-text-color: black;
     --navbar-footer-color:white;
 }
 
