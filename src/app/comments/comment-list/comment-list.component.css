@@ -1,0 +1,9 @@
+.card {
+    background-color: grey;
+}
+
+.comment-box {
+    padding:15px 35px;
+    background-color: white;
+    color: black;
+}
